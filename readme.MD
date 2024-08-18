@@ -4,3 +4,5 @@ The challenge is to calculate
 ```
 
 as fast as possible.
+
+`validateResult` reads from stdin, calculates the SHA-256 hash, and prints if the result is correct or not.
